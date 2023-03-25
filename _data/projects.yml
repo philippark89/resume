@@ -1,16 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
+- project: Dreambank
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  duration: Feb, 2022 &mdash; May, 2022
+  url: "https://github.com/philippark89/DreamBank"
+  description: TEKSystem bootcamp's capstone for 12 weeks with Full Stack project. This project has developed with Java Spring that have a fully functioning of CRUD operations.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Discord Bots
+  role: Founder & Primary Developer
+  duration: 2021 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: A popular communication platform Discord supports a bot is an automated program designed to perform tasks, enhance user interaction, and manage server functions within the platform. Personally, I developed the bots that prints the information of user's gaming records from users request via its game's official API. It is running 24/7 on my own server currently.
