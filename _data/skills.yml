@@ -1,9 +1,9 @@
 # Skills
 - skill: Programming Languages
-  description: Java, Python, SQL, and Type-scripts.
+  description: Java, Python, C#, Javascript, SQL, and Type-scripts.
 
 - skill: Frameworks/Technologies
-  description: Git, GitHub, Agile Management, Spring, Flask, MongoDB, AWS, GCP, Azure, Jenkins, Docker, and K8s.
+  description: Git, GitHub, Agile Management, Spring, Flask, MongoDB, AWS, GCP, Azure, Jenkins, Docker, Terraform, and K8S.
 
 # - skill: Digital content development and creation
 #   description: Copy writing, graphic design, web design, front-end web development, print design

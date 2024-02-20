@@ -1,12 +1,16 @@
 # Jobs
+- company: Kipsu
+  position: Software Engineer (DevOps)
+  duration: Feb, 2024 &mdash; Dec, Present
+
 - company: Optum
   position: Software Engineer
-  duration: Jun, 2022 &mdash; Present
+  duration: Jun, 2022 &mdash; Dec, 2023
   # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 - company: TEKSystem
   position: Rising Talent Program (SWE)
-  duration:  Feb, 2022 &mdash; Present
+  duration:  Feb, 2022 &mdash; May, 2022
   # summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
